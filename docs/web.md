@@ -50,3 +50,46 @@ Dribble：Dribbble是一个面向创作家、艺术工作者、设计师等创�
 Front-end Front：在Front-end Front，前端开发者可以提出问题，分享有趣的链接，并展示他们的项目作品。<br>
 Hashnode：Hashnode是开发者讨论技术问题，分享解决方案，与世界各地的开发者共享资源的聚集地。<br>
 Refind：有着开发者, 黑客, 设计师收集和分享最好的资源的社区。</p>
+<p>Gratisography</p>
+<p><a href="http://www.gratisography.com/">http://www.gratisography.com/</a></p>
+<p>这个网站的图片都由Ryan McGuire拍摄制作，风格清新明朗，时尚趣味。站内素材无需注册即可免费下载，且无版权限制，可用于个人或商业用途。资源每周都会更新，唯一的不足是图片数量有限。</p>
+<p>Pixabay</p>
+<p><a href="https://pixabay.com/">https://pixabay.com/</a></p>
+<p>Pixabay的特别之处在于，它不仅提供高清照片下载，视频、插图、矢量图资源也一应俱全，还有不同尺寸可供选择。网站有中文接口，支持关键词检索，简单注册后即可免费使用。站点上现有50多万素材，都无版权限制，可做商业用途且不要求署名，就等你临幸了！</p>
+<p>New Old Stock</p>
+<p><a href="http://nos.twnsnd.co/">http://nos.twnsnd.co/</a></p>
+<p>这是个主打复古格调的图片网站，存有不少黑白老照片，年代气息浓厚，蛮适合想玩玩怀旧腔调的你。站内图片无需注册即可免费下载，无版权限制，可惜没有目录分类和检索功能。</p>
+<p>Life Of Pix</p>
+<p><a href="http://www.lifeofpix.com/">http://www.lifeofpix.com/</a></p>
+<p>这个网站的资源量不大，图片内容多为欧美自然风光，洋溢着散漫闲适的生活感，看多了会很想度假！站内图片每周更新，无需注册即可免费下载，无版权限制。遗憾的是，它同样没有分类和检索功能。</p>
+<p>Picjumbo</p>
+<p><a href="https://picjumbo.com/">https://picjumbo.com/</a></p>
+<p>Picjumbo是个基于网站设计的素材站点，有动物、人物、建筑、食物、商务等目录分类。图片分辨率都很高，无需注册即可免费下载，无版权限制，非常适合用在界面设计等创意项目中。设计师们不妨去看看！</p>
+<p>MorgueFile</p>
+<p><a href="http://www.morguefile.com/">http://www.morguefile.com/</a></p>
+<p>MorgueFile中现有超过373,000件的高清摄影作品，来自全球艺术家们的上传分享。在这里上传图片需注册，但下载不需要。站内图片可免费用于个人或商业项目，无须署名。</p>
+<p>Getty Images</p>
+<p><a href="http://www.gettyimages.co.uk/">http://www.gettyimages.co.uk/</a></p>
+<p>Getty Images内现存有8000万张插图和照片，是当之无愧的图库巨头。站内有体育、娱乐、新闻、时尚等目录分类。这个网站近期开始免费提供图片资源供嵌入博客中。</p>
+<p>IM Free</p>
+<p><a href="http://www.imcreator.com/free/">http://www.imcreator.com/free/</a></p>
+<p>比起同类网站，IM Free的资源数量相对较少。但站内图片都经过精心筛选，清晰的分类能帮你轻松找到合适的素材，大部分资源都可用做商用。</p>
+<p>unsplash</p>
+<p><a href="https://unsplash.com/">https://unsplash.com/</a></p>
+<p>Unsplash里的图片都很有意境，以风光图居多，做壁纸也是不错的选择。网站每10天更新10张优质图片，无需注册就可免费下载，无版权限制。</p>
+<p>Public  Domain Archive</p>
+<p><a href="http://publicdomainarchive.com/">http://publicdomainarchive.com/</a></p>
+<p>顾名思义，这是一个公共图库，作者主动放弃了作品所有权，让图片资源得以在世界范围内共享。无需注册即可免费下载使用，无版权限制。还不快收下这份美好的馈赠!</p>
+<p>Giphy</p>
+<p><a href="http://giphy.com">http://giphy.com</a></p>
+<p>Giphy绝对是当下最火爆的动图检索神器！输入关键词，即能搜索特定主题的高质量动图，主页还列出了一些热搜标签作为参考，站内资源无需注册可免费下载。</p>
+<p>Easyicon</p>
+<p><a href="http://www.easyicon.net/">http://www.easyicon.net/</a></p>
+<p>这是个提供免费图标搜索和下载服务的网站，资源丰富，输入关键字，即能获得PNG、ICO等格式的图标，素材尺寸也可选择。Easyicon还能根据用户输入的语言，自动转换成相应的英文单词。还能更贴心吗！</p>
+<p>Dribbble</p>
+<p><a href="https://dribbble.com/">https://dribbble.com/</a></p>
+<p>Dribbble是一个面向创作家、艺术工作者、设计师等创意类作品的人群，提供作品在线服务，供网友在线查看已经完成的作品或者正在创作的作品的交流网站。Dribbble[1]  还针对手机推出了相应的软件，可以通过苹果应用商店下载使用 Dribbble移动应用。</p>
+<p><a href="https://www.zhihu.com/question/20012937">https://www.zhihu.com/question/20012937</a></p>
+<p>Behance</p>
+<p><a href="https://www.behance.net/">https://www.behance.net/</a></p>
+<p>Behance 是展示和发现创意作品的领先在线平台，同时也是 Adobe 系列的一部分。Behance 的管理团队每天都会从各种领域中的顶级组合探索出新作品。这些领域包括设计、时尚、插图、工业设计、建筑、摄影、美术、广告、排版、动画、声效以及更多。领先的创意公司可以通过 Behance 发现人才，数百万的访客也可以使用 Behance 跟踪最新和最杰出的创意人才</p>
