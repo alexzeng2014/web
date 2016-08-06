@@ -1,4 +1,4 @@
-<h1 id="超全的web开发工具和资源">超全的web开发工具和资源</h1>
+<h1 id="web开发工具和资源">web开发工具和资源</h1>
 <p>Markdown 是一种轻量级的「标记语言」,它的优点很多,目前也被越来越多的写作爱好者,撰稿者广泛使用。Markdown 十分轻量,学习成本也不高。</p>
 <p>一个开放源码免费使用的 MarkDown 编辑器, 基于 PageDown,使用了 Stack Overflow 和其他 Stack Exchange 网站的 MarkDown 库<br>
 <a href="https://stackedit.io/">https://stackedit.io/</a></p>
